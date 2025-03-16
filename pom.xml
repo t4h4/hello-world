@@ -17,7 +17,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-repository</id>
-            <url>http://192.168.68.57:8081/repository/local-jenkins-maven-projects/</url>
+            <url>http://192.168.56.1:8081/repository/local-jenkins-maven-projects/</url>
         </repository>
     </distributionManagement>
 
